@@ -1,7 +1,8 @@
 {
-  "name": "Beagle board getting started app",
-  "main": "index.html",
-  "window": {
-    "fullscreen": true
-  }
+	  "name": "Beagle board getting started app",
+	  "main": "index.html",
+	"window": {
+		"toolbar": false,
+		"fullscreen": true
+		}
 }
